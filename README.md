@@ -1,12 +1,9 @@
-# Hi there 👋 My name is MANAV SHAH
-## 
-
 <h1 align="center">Hi there  👋, You have visited the Github page of MANAV SHAH</h1>
 <h3 align="center"> ~ a final year student pursuing a B.Tech in Electronics and Telecommunication Engineering from Veermata Jijabai Technological Institute.</h3>
 
 <!--🖼️RICK-->
 <p align="center">
-<img src="https://tenor.com/wW3N.gif" height="240" width="370">
+<img src="https://media.tenor.com/KkykmaqyVAwAAAAC/electricwires.gif" height="240" width="370">
 
 <!--
 **manavshah-28/manavshah-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
