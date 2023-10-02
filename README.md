@@ -2,7 +2,7 @@
 
 <!--🖼️RICK-->
 <p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif" height="340" width="970">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif" height="300" width="1000">
 
 <!--
 **manavshah-28/manavshah-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
