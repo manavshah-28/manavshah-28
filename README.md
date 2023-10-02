@@ -1,8 +1,18 @@
 <h1 align="center">Welcome to MANAV SHAH's Git page</h1>
 
-<!--🖼️RICK-->
+
 <p align="center">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif" height="300" width="1000">
+
+## About 
+* B-Tech in Electronics and Telecommunication Engineering, Veermata Jijabai Technological Institute.
+* Currentyl in Final Year.
+## Research Interests
+* Digital Design
+* Chip design and verification (~current work on RISCV)
+* Hardware Descriptive Languages - Verilog / VHDL.
+* anythihg and everything on FPGAs.
+
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
