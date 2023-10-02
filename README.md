@@ -1,4 +1,4 @@
-<h1 align="center">Hi there  👋, You have visited the Github page of MANAV SHAH</h1>
+<h1 align="center">Welcome to MANAV SHAH's Git page</h1>
 
 <!--🖼️RICK-->
 <p align="center">
