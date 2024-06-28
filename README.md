@@ -12,6 +12,10 @@
 
 * 💼 Ex [VYOMA Systems](https://vyomasystems.com/) RISCV V Verification Intern.
 
+## Publication
+[Reliable key generation for authentication and encryption using RO PUF on FPGA
+](https://ieeexplore.ieee.org/document/10468928)
+
 ## Research Interests
 * Digital Design and Verification 
 * Hardware Descriptive Languages - Verilog / VHDL.
