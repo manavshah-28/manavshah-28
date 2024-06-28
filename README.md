@@ -10,7 +10,7 @@
 
 * 🏆 Winner of Smart India Hackathon 2023 (Hardware edition)
 
-* Ex [VYOMA Systems](https://vyomasystems.com/) RISCV V Verification Intern.
+* 💼 Ex [VYOMA Systems](https://vyomasystems.com/) RISCV V Verification Intern.
 
 ## Research Interests
 * Digital Design and Verification 
